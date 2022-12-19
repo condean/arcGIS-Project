@@ -6,7 +6,7 @@
 
 1\. create a new project by first selecting the "Map" template
 
-<figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="images/part1/1.png" alt=""><figcaption></figcaption></figure>
 
 2\. Name the project and decide where to store the project file, then click "OK"
 
