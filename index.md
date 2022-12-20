@@ -2,6 +2,6 @@
 layout: default
 name: Home
 ---
-![Underdog Technologies Logo](/images/UDT.jpg)
+<img src="images/UDT.jpg" width="200" height="200">
 # ArcGIS Scavenger Hunt Workshop
 
